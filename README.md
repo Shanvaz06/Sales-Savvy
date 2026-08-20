@@ -8,7 +8,6 @@ Full Stack E-Commerce Application
 - Login
 - Dashboard
 - Product Management
-- Order Management
 
 ### User
 - Login
@@ -16,7 +15,6 @@ Full Stack E-Commerce Application
 - Add To Cart
 - Checkout
 - Razorpay Payment
-- My Orders
 
 ## Tech Stack
 - React.js
